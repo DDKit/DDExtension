@@ -1,0 +1,6 @@
+framework module DDExtension {
+  umbrella header "DDExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

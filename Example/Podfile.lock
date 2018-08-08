@@ -1,0 +1,16 @@
+PODS:
+  - DDExtension (0.1.0)
+
+DEPENDENCIES:
+  - DDExtension (from `../`)
+
+EXTERNAL SOURCES:
+  DDExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DDExtension: 18cfeb78ea3bfffe6b7a27992a9cc04c6657f73a
+
+PODFILE CHECKSUM: 565b08cf5f6e4df5961d1c38d0e1912dcfd7547d
+
+COCOAPODS: 1.5.3

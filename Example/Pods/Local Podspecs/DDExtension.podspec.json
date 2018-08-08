@@ -1,0 +1,23 @@
+{
+  "name": "DDExtension",
+  "version": "0.1.0",
+  "summary": "DDExtensionUIKit.",
+  "description": "DDExtension Is Work For Our UIKit With Swift.",
+  "homepage": "https://github.com/DDKit/DDExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DDKit": "592110272@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/DDKit/DDExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DDExtension/Classes/**/*",
+  "swift_version": "4.0"
+}
