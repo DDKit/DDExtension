@@ -38,5 +38,12 @@ DDExtension Is Work For Our UIKit With Swift.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'Moya/RxSwift' # Rx
+  s.dependency 'SnapKit'  # 代码布局
+  s.dependency 'RxDataSources'  # tableView RX
+  s.dependency 'SwiftyJSON'  # json解析
+  s.dependency 'SwiftyUserDefaults'  # 用户偏好设置存储
+  s.dependency 'DeviceKit'  # 设备信息
+  s.dependency 'Timepiece'  # 时间日期
+
 end
