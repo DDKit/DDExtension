@@ -1,6 +1,6 @@
 # DDExtension
 
-[![CI Status](https://img.shields.io/travis/duanchanghe/DDExtension.svg?style=flat)](https://travis-ci.org/duanchanghe/DDExtension)
+[![CI Status](https://img.shields.io/travis/DDKit/DDExtension.svg?style=flat)](https://travis-ci.org/DDKit/DDExtension)
 [![Version](https://img.shields.io/cocoapods/v/DDExtension.svg?style=flat)](https://cocoapods.org/pods/DDExtension)
 [![License](https://img.shields.io/cocoapods/l/DDExtension.svg?style=flat)](https://cocoapods.org/pods/DDExtension)
 [![Platform](https://img.shields.io/cocoapods/p/DDExtension.svg?style=flat)](https://cocoapods.org/pods/DDExtension)
@@ -22,7 +22,7 @@ pod 'DDExtension'
 
 ## Author
 
-duanchanghe, jay8018_ios@126.com
+DDKit, 592110272@qq.com
 
 ## License
 
