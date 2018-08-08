@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DDExtension_Example' do
+  pod 'DDExtension', :path => '../'
+
+  target 'DDExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
